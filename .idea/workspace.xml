@@ -7,17 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd88c422-0bae-460f-9ee8-fc8cf6f3ab77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/artifacts/helloworld_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/libraries/servlet_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/helloworld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/src/main/java/com/hhy/myweb/IndexServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../helloworld/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../helloworld/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,8 +40,8 @@
       <file leaf-file-name="IndexServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../helloworld/src/main/java/com/hhy/myweb/IndexServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+            <state relative-caret-position="211">
+              <caret line="52" column="15" lean-forward="true" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,6 +94,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="hehaoyuan" />
         <option value="hhy" />
       </list>
     </option>
@@ -170,8 +161,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="90" />
-    <option name="y" value="10" />
+    <option name="x" value="141" />
     <option name="width" value="1750" />
     <option name="height" value="1035" />
   </component>
@@ -339,7 +329,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -604,12 +594,20 @@
       <workItem from="1562412785859" duration="186000" />
       <workItem from="1562413061767" duration="2979000" />
       <workItem from="1562416110814" duration="1786000" />
-      <workItem from="1562427695450" duration="1058000" />
+      <workItem from="1562427695450" duration="1666000" />
     </task>
+    <task id="LOCAL-00001" summary="my first webapp">
+      <created>1562430572508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562430572509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23746000" />
+    <option name="totallyTimeSpent" value="24354000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -622,9 +620,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.17536815" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.328877" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.16420911" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
@@ -642,9 +641,9 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.328877" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17536815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.17536815" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.328877" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71524066" visible="true" weight="0.22788204" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71524066" visible="true" weight="0.22788204" />
       <window_info id="Web" order="2" sideWeight="0.28475937" side_tool="true" weight="0.24597855" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.28475937" side_tool="true" weight="0.24597855" />
@@ -664,7 +663,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first webapp" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first webapp" />
+    <MESSAGE value="myfirst-web-app" />
+    <option name="LAST_COMMIT_MESSAGE" value="myfirst-web-app" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1007,8 +1007,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../helloworld/src/main/java/com/hhy/myweb/IndexServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="211">
+          <caret line="52" column="15" lean-forward="true" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
