@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                      http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+
+    <!--动态程序servlet的配置，动态网页的注解，告诉xml文件我的动态网页可以使用-->
+    <!--告诉tomcat容器有一个servlet程序-->
+    <servlet>
+        <!--servlet名称，内部名称-->
+        <servlet-name>IndexServlet</servlet-name>
+        <!--Servlet的类名,全限定名,通过反射-->
+        <servlet-class>com.hhy.myweb.IndexServlet</servlet-class>
+    </servlet>
+    <!--servlet的映射关系，告诉tomcat容器，当用户请求一个地址的时候，使用该servlet处理-->
+    <servlet-mapping>
+        <servlet-name>IndexServlet</servlet-name>
+        <url-pattern>/IndexServlet</url-pattern>
+    </servlet-mapping>
+</web-app>
